@@ -1,0 +1,2 @@
+cd E:\Newgen Data\Udemy Selenium Webdriver Cucumber testNG CI\Selenium Webdriver notes\Session 6 Hybrid Driven framework\Day 29\nopCommerceV2
+mvn clean install
